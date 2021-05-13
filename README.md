@@ -65,7 +65,7 @@ Write threads, interact with the followers: like their comments, answer to them,
 
 ## What should I do on the first day?
 
-Create a weekly plan (5-7 topics) and make a tweet with your weekly plan. Change the photo and account's bio to yours. Optionally - change the background.  
+Create a week schedule (5-7 topics) and make a tweet with your week plan. Change the photo and account's bio to yours. Optionally - change the background.  
 
 <b>Write a separate tweet or a short thread about yourself and your current position</b>. You may skip a long introductory thread on your first day, but you should not skip this short introduction. Pin this tweet.
 
@@ -77,7 +77,7 @@ Create a meta-thread with the links to your threads. This meta-thread is conveni
 
 - I never had a twitter account! 
 
-But you work in computational biology, thus, you can learn how to use Twitter in no time. You will get your account details so you won't need to register on Twitter.
+You work in computational biology, thus, you can learn how to use Twitter in no time. You will get your account details so you won't need to register on Twitter.
 - I am boring and have nothing to talk about. 
 
 We don't aim to invite the stars of computational biology only. This Twitter account is created to show what our/your job is about. Simply talk about your daily routines.
@@ -87,4 +87,4 @@ Without a doubt your experience is very different and thus interesting.
 
 
 
-<i>Kudos to <a href="https://ds.underhood.club/authoring">Data Scientist Underhood</a> organisers to save me so much time and allow using their article as a template!/i>
+<i>Kudos to <a href="https://ds.underhood.club/authoring">Data Scientist Underhood</a> organisers to save me so much time and allow using their article as a template!</i>
